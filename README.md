@@ -41,13 +41,12 @@ use Yii;
 class MailWizz extends Component
 {
 
-    public $listId = 'hy966kyxae999';
 
     public function __construct(){
         $config = new Config([
-            'apiUrl'        => 'https://xpromail.com/api/index.php',
-            'publicKey'     => 'ff83b1815b4b2eaeae5051c1fb486e4c48ca0416',
-            'privateKey'    => 'dd49df9d31a80c984d633d92a513724f95c6c5da',
+            'apiUrl'        => 'ApiUrl',
+            'publicKey'     => 'Pub_key',
+            'privateKey'    => 'Private_key',
             'components' => array(
                 'cache' => array(
                     'class'     => File::class,
