@@ -1,0 +1,24 @@
+{
+  "name": "yii2-mailwizz/mailwizz",
+  "type": "library",
+  "description": "MailWizz PHP SDK",
+  "keywords": ["mailwizz"],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Avseenko Andrey",
+      "email": "bropwnz0r@gmail.com",
+      "homepage": "",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "MailWizzApi\\": "MailWizzApi/"
+    }
+  }
+}
