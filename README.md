@@ -7,7 +7,7 @@ Read this [web tip /wiki](http://webtips.krajee.com/setting-composer-minimum-sta
 Either run
 
 ```
-$ php composer.phar require require yii2-mailwizz/mailwizz "dev-master"
+$ php composer.phar require yii2-mailwizz/mailwizz "dev-master"
 ```
 
 or add
