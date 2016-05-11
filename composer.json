@@ -2,7 +2,7 @@
   "name": "yii2-mailwizz/mailwizz",
   "type": "library",
   "description": "MailWizz PHP SDK",
-  "keywords": ["mailwizz"],
+  "keywords": ["mailwizz","yii2-mailwizz","yii2"],
   "homepage": "https://github.com/Bropwnz0r/yii2-mailwizz",
   "license": "MIT",
   "authors": [
