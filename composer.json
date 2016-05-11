@@ -3,13 +3,13 @@
   "type": "library",
   "description": "MailWizz PHP SDK",
   "keywords": ["mailwizz"],
-  "homepage": "",
+  "homepage": "https://github.com/Bropwnz0r/yii2-mailwizz",
   "license": "MIT",
   "authors": [
     {
       "name": "Avseenko Andrey",
       "email": "bropwnz0r@gmail.com",
-      "homepage": "",
+      "homepage": "https://github.com/Bropwnz0r/yii2-mailwizz",
       "role": "Developer"
     }
   ],
